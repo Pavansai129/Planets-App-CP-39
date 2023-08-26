@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.planet-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.planet {
+  width: 50%;
+  height: 50%;
+  text-align: center;
+}
